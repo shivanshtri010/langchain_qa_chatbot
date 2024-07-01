@@ -1,0 +1,8 @@
+langchain
+langchain_community
+requests
+beautifulsoup4
+flask
+flask-restful
+sentence-transformers
+chromadb
